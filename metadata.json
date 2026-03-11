@@ -1,0 +1,7 @@
+{
+  "name": "OpportunityGap AI",
+  "description": "Smart Business Opportunity Finder that helps entrepreneurs identify profitable business opportunities by analyzing local business density, demand, competition, and market gaps.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
